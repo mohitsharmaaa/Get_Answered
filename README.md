@@ -23,4 +23,6 @@ allow experienced employees to mentor fresh minds and provide an opportunity for
 <!--<h3>Features</h3>
 <ul>
 <li>User can Ask a Question</li>
-</ul>>
+</ul>-->
+
+<a class="LI-simple-link" href='https://in.linkedin.com/in/19mohitsharma95?trk=profile-badge'>MOHIT SHARMA</a>
